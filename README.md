@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello gamer
+# Welcome to my GitHub
+🤓 you should check out my social links 🤓
 
-<!--
-**sprmcell/sprmcell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A bit about me:
+##### I dual boot arch and gentoo
+##### I use bash, xorg, vim, alacritty and dwm
+##### quite annoying
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social links (where to stalk me!) ❤️
+Discord is quite based btw!
+###### [Discord](https://discord.gg/QwvcY4uG52)
+###### [Website](https://sprmcell.repl.co/)
+###### [GitLab](https://gitlab.com/sprmcell)
+###### [YouTube](https://youtube.com/spermcell)
