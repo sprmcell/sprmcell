@@ -7,7 +7,7 @@
 
 ## Social links (where to stalk me!) ❤️
 Discord is quite based btw!
-###### [Discord](https://discord.gg/h5MEDUxDpz)
+###### [Discord](https://discord.gg/fRTBD5WUJw)
 ###### [Website](https://scrv.xyz)
 ###### [GitLab](https://gitlab.com/sprmcell)
 ###### [YouTube](https://youtube.com/spermcell)
